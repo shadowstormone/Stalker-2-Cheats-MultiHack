@@ -4,7 +4,7 @@
 
 ## Описание
 
-Многофункциональная Internal DLL для **S.T.A.L.K.E.R. 2: Heart of Chornobyl** с ImGui Overlay, поддержкой DLSS/NVIDIA Streamline, локализацией RU/EN, системой профилей, горячих клавиш, ESP, Aimbot, спавнером предметов, телепортом и другими возможностями.
+Многофункциональная Internal Cheat для **S.T.A.L.K.E.R. 2: Heart of Chornobyl** с ImGui Overlay, поддержкой DLSS/NVIDIA Streamline, локализацией RU/EN, системой профилей, горячих клавиш, ESP, Aimbot, спавнером предметов, телепортом и другими возможностями.
 
 > **Только для одиночной игры.**
 
