@@ -4,7 +4,7 @@
 
 ## Описание
 
-Многофункциональная Internal Cheat для **S.T.A.L.K.E.R. 2: Heart of Chornobyl** с ImGui Overlay, поддержкой DLSS/NVIDIA Streamline, локализацией RU/EN, системой профилей, горячих клавиш, ESP, Aimbot, спавнером предметов, телепортом и другими возможностями.
+Многофункциональный Internal Cheat для **S.T.A.L.K.E.R. 2: Heart of Chornobyl** с ImGui Overlay, поддержкой DLSS/NVIDIA Streamline, локализацией RU/EN, системой профилей, горячих клавиш, ESP, Aimbot, спавнером предметов, телепортом и другими возможностями.
 
 > **Поддреживаемая версия игры:** v1.9 (Build 22554680) — Ultimate Edition
 
@@ -92,7 +92,7 @@
 %TEMP%\logs
 ```
 
-## Issues
+## [Issues](https://github.com/shadowstormone/Stalker-2-Cheats-MultiHack/issues)
 
 При создании Issue приложите:
 - Версию игры
