@@ -4,7 +4,7 @@
 
 ## Overview
 
-Internal DLL for **S.T.A.L.K.E.R. 2: Heart of Chornobyl** featuring an ImGui overlay, DLSS/NVIDIA Streamline compatibility, RU/EN localization, configurable hotkeys, profiles, ESP, Aimbot, Item Spawner, Teleport, World controls and many quality-of-life features.
+Internal cheat for **S.T.A.L.K.E.R. 2: Heart of Chornobyl** featuring an ImGui overlay, DLSS/NVIDIA Streamline compatibility, RU/EN localization, configurable hotkeys, profiles, ESP, Aimbot, Item Spawner, Teleport, World controls and many quality-of-life features.
 
 > **Single-player only.**
 
