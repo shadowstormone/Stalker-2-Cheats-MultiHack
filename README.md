@@ -6,7 +6,7 @@
 
 Internal cheat for **S.T.A.L.K.E.R. 2: Heart of Chornobyl** featuring an ImGui overlay, DLSS/NVIDIA Streamline compatibility, RU/EN localization, configurable hotkeys, profiles, ESP, Aimbot, Item Spawner, Teleport, World controls and many quality-of-life features.
 
-> **Cheat version:** v2.5
+> **Cheat version:** v3.3
 
 > **Supported game version:** v1.9 (Build 22554680) — Ultimate Edition
 
@@ -40,16 +40,18 @@ Internal cheat for **S.T.A.L.K.E.R. 2: Heart of Chornobyl** featuring an ImGui o
 ### 💪 Exploits
 - God Mode
 - Infinite Health / Armor / Stamina / Ammo
+- **No Leg Fracture** — falls from height no longer cripple you or slow you down (with Infinite Health)
 - **No Recoil** — no camera kick, and bullets fly exactly into the crosshair (no climb during sustained fire)
 - No Spread / Reload / Jam
 - One Shot
 - Damage Multiplier
 - Rapid Fire
-- Unlimited Weight
+- **Zero Weight** — no encumbrance; overweight slow/lock is cleared instantly on enable
+- **No Monster Effects** — immunity to monster crowd-control: knockdown (pseudogiant), concussion (bloodsucker), camera shake, disarm (burer), action/input blocks
 - No Hunger / Radiation / Bleeding
 - Fly / NoClip / Infinite Jump
 - Freeze Time
-- Bright Flashlight
+- **Custom Flashlight** — full control over color, brightness, range, beam width and volumetric beam, plus presets (Spotlight / UV / Night Vision)
 - Loot Multiplier
 - Stealth Mode
 - No Drunkenness
@@ -57,7 +59,8 @@ Internal cheat for **S.T.A.L.K.E.R. 2: Heart of Chornobyl** featuring an ImGui o
 - No Drowsiness
 - No Psy Effect
 - Add Coupons
-- NPC Reputation
+- **Faction Reputation Editor** — read your reputation to every faction and set it (per-faction buttons + global All Friendly / Neutral / Hostile)
+- Set NPC Reputation in radius
 - Unlock All Notes
 
 ### 🌍 World
