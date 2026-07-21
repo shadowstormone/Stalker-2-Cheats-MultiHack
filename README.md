@@ -36,6 +36,7 @@ Internal cheat for **S.T.A.L.K.E.R. 2: Heart of Chornobyl** featuring an ImGui o
 - Custom Colors
 - Rainbow Mode
 - Custom Crosshair
+- **Player Coordinates HUD** — on-screen X/Y/Z position with adjustable placement (X/Y sliders)
 
 ### 💪 Exploits
 - God Mode
@@ -46,6 +47,7 @@ Internal cheat for **S.T.A.L.K.E.R. 2: Heart of Chornobyl** featuring an ImGui o
 - One Shot
 - Damage Multiplier
 - Rapid Fire
+- **No Charge Delay** — Gauss rifle and bolt-action weapons fire without the charge / wind-up wait
 - **Zero Weight** — no encumbrance; overweight slow/lock is cleared instantly on enable
 - **No Monster Effects** — immunity to monster crowd-control: knockdown (pseudogiant), concussion (bloodsucker), camera shake, disarm (burer), action/input blocks
 - No Hunger / Radiation / Bleeding
@@ -75,6 +77,7 @@ Internal cheat for **S.T.A.L.K.E.R. 2: Heart of Chornobyl** featuring an ImGui o
 - Waypoint Teleport
 - XYZ Teleport
 - 39+ Preset Locations
+- **Custom Locations** — save your current position as a named point and teleport back to it anytime (persists across sessions)
 
 ### 📦 Item Spawner
 - 828+ Items
@@ -125,4 +128,16 @@ Please include:
 
 ## Disclaimer
 
-This project is intended **only for single-player gameplay**.
+This project is intended **only for single-player gameplay**. Provided for
+educational purposes and used **at your own risk** — the author is not
+responsible for game bans or any damage.
+
+## License
+
+This is **proprietary** software — see [LICENSE](LICENSE). Only the compiled
+injector on the Releases page is distributed; source code and the cheat library
+are not published. Redistribution, resale, or reverse engineering is not
+permitted.
+
+Third-party open-source components bundled in the binary (Dear ImGui, MinHook,
+kiero) are licensed separately — see [THIRD_PARTY_LICENSES.txt](THIRD_PARTY_LICENSES.txt).
