@@ -1,30 +1,78 @@
 Copyright (c) 2026 ShadowStormOne. All Rights Reserved.
 
+PROPRIETARY SOFTWARE LICENSE
+
 S.T.A.L.K.E.R. 2: Heart of Chornobyl — MultiHack ("the Software")
 
-This is PROPRIETARY software. Only the compiled injector distributed on the
-official GitHub Releases page is made available to end users. The source code
-and the cheat library (DLL) are NOT published and remain the exclusive property
-of the author.
+This is proprietary, closed-source software. Only the unmodified compiled
+injector officially distributed by the copyright holder through the project's
+official GitHub Releases is made available to end users.
+
+The source code is NOT publicly distributed. The cheat library (DLL) is
+distributed solely as an embedded resource of the official injector and is
+NOT licensed for separate distribution or use outside of it. Both remain
+the exclusive property of the copyright holder.
+
+LICENSE GRANT
+
+Subject to compliance with the terms of this license, you are granted a
+limited, non-exclusive, non-transferable, revocable license to download and
+run the officially released injector for personal, non-commercial,
+single-player use.
 
 YOU MAY:
-  - Download and run the released injector for personal, single-player use.
+
+  - Download and run the officially released injector for personal,
+    non-commercial, single-player use.
 
 YOU MAY NOT:
-  - Redistribute, re-upload, mirror, sell, rent, or sublicense the Software or
-    any part of it.
-  - Decompile, disassemble, reverse engineer, or otherwise attempt to derive the
-    source code, except to the extent expressly permitted by applicable law.
-  - Bundle the Software with other products or present it as your own work.
+
+  - Redistribute, re-upload, mirror, sell, rent, sublicense, or otherwise
+    transfer the Software or any part of it to any third party.
+
+  - Modify, patch, alter, tamper with, or create derivative works based on
+    the Software.
+
+  - Decompile, disassemble, reverse engineer, or otherwise attempt to derive
+    the source code or underlying implementation of the Software, except to
+    the extent expressly permitted by applicable law.
+
+  - Extract, reproduce, redistribute, or separately distribute the cheat
+    library (DLL) or any other proprietary component of the Software.
+
+  - Bundle the Software with other products or distribute it as part of
+    another software package.
+
+  - Present the Software or any part of it as your own work.
+
+  - Use the Software for commercial purposes or monetize access to the
+    Software.
+
+The license granted under these terms automatically terminates upon any
+violation of this license. Upon termination, you must cease all use of the
+Software and destroy all copies of it in your possession.
+
+DISCLAIMER OF WARRANTY
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE
-LIABLE FOR ANY CLAIM, DAMAGES, GAME BANS, OR OTHER LIABILITY ARISING FROM THE
-USE OF THE SOFTWARE.
+IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
 
-This project is intended for educational purposes and single-player gameplay
-only. Use at your own risk.
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+DAMAGES, GAME BANS, ACCOUNT SUSPENSIONS, LOSS OF DATA, OR OTHER LIABILITY
+ARISING FROM OR RELATED TO THE USE, MISUSE, OR INABILITY TO USE THE SOFTWARE.
 
-Third-party open-source components bundled in the compiled binary are licensed
-separately under their own terms — see THIRD_PARTY_LICENSES.txt.
+The Software is provided for educational purposes and intended solely for
+single-player gameplay. You use the Software entirely at your own risk.
+
+THIRD-PARTY COMPONENTS
+
+Third-party open-source components bundled with or distributed alongside the
+Software are licensed separately under their respective license terms.
+Applicable license notices and copyright information are provided in
+THIRD_PARTY_LICENSES.txt.
+
+Nothing in this license grants any rights to third-party components beyond
+the rights granted under their respective licenses.
+
+Copyright (c) 2026 ShadowStormOne. All Rights Reserved.
